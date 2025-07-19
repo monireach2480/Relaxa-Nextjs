@@ -2,6 +2,10 @@
 
 A modern web application built with Next.js, featuring user authentication, file uploads, and a sleek UI.
 
+🌐 **Live Demo:** [https://relaxa-jet.vercel.app/](https://relaxa-jet.vercel.app/)
+
+📂 **Repository:** [https://github.com/monireach2480/Relaxa-Nextjs](https://github.com/monireach2480/Relaxa-Nextjs)
+
 ## Features
 
 - 🔐 **Authentication** - Secure user authentication with Clerk
@@ -34,7 +38,7 @@ A modern web application built with Next.js, featuring user authentication, file
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/monireach2480/Relaxa-Nextjs.git
 cd relaxa
 ```
 
