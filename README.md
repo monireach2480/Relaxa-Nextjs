@@ -1,6 +1,6 @@
 # Relaxa
 
-A modern web application built with Next.js, featuring user authentication, file uploads, and a sleek UI.
+A modern social media web application built with Next.js, featuring user authentication, file uploads, and a Shadcn UI.
 
 🌐 **Live Demo:** [https://relaxa-jet.vercel.app/](https://relaxa-jet.vercel.app/)
 
