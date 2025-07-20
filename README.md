@@ -2,7 +2,7 @@
 
 A modern social media web application built with Next.js, featuring user authentication, file uploads, and a Shadcn UI.
 
-🌐 **Live Demo:** [https://relaxa-jet.vercel.app/](https://relaxa-jet.vercel.app/)
+🌐 **Live Demo:** [https://relaxa-jet.vercel.app/](https://relaxa-jet.vercel.app/)  (Refresh the page if error occurs)
 
 📂 **Repository:** [https://github.com/monireach2480/Relaxa-Nextjs](https://github.com/monireach2480/Relaxa-Nextjs)
 
