@@ -8,6 +8,7 @@ import {
   MoonIcon,
   SunIcon,
   UserIcon,
+  MessageCircle,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
@@ -45,10 +46,22 @@ function MobileNavbar() {
             <SheetTitle>Menu</SheetTitle>
           </SheetHeader>
           <nav className="flex flex-col space-y-4 mt-6">
+
             <Button variant="ghost" className="flex items-center gap-3 justify-start" asChild>
               <Link href="/">
                 <HomeIcon className="w-4 h-4" />
                 Home
+              </Link>
+            </Button>
+
+            {/* ⭐ Added Chat Button */}
+            <Button variant="ghost" className="flex items-center gap-3 justify-start" asChild>
+              <Link
+                href="https://full-stack-chatapp-mern-97ho.onrender.com/login"
+                target="_blank"
+              >
+                <MessageCircle className="w-4 h-4" />
+                Chat
               </Link>
             </Button>
 
